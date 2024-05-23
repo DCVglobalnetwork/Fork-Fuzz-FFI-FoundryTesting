@@ -22,6 +22,8 @@ forge test --fork-url <PLACE YOUR URL HERE>
 
 
 
+
+
 3. FFI
 
 ```shell
@@ -32,8 +34,6 @@ or
 ```shell
 forge test --mt testFFI --ffi -vvv
 ```
-
-   
 
 ![Screenshot 2024-05-23 112617](https://github.com/DCVglobalnetwork/Fork-Fuzz-FFI-FoundryTesting/assets/105791829/69f3e640-f7cb-468f-abb0-29e5ef1d7220)
 
@@ -53,6 +53,9 @@ $ forge fmt
 ```shell
 $ cast ffi_test.txt
 ```
+
+![Screenshot 2024-05-23 112525](https://github.com/DCVglobalnetwork/Fork-Fuzz-FFI-FoundryTesting/assets/105791829/b7ba0507-6009-49c4-a381-ecd3e24223b9)
+
 
 ### Help
 
@@ -79,4 +82,21 @@ Please make sure to update tests as appropriate.
 
 Magda Jankowska - [free2magda46@yahoo.com](mailto:email@example.com)
 
-Project Link: [https://github.com/DCVglobalnetwork/Fork-Fuzz-FFI-FoundryTesting](https://github.com/DCVglobalnetwork/Fork-Fuzz-FFI-FoundryTesting)
+Project Link: [https://github.com/DCVglobalnetwork/Fork-Fuzz-FFI-FoundryTesting](https://github.com/DCVglobalnetwork/Fork-Fuzz-FFI-FoundryTesting
+
+
+***Master Foundry for Security Testing***
+
+
+***Set up Foundry in your development environment.***
+***Start with basic testing and move on to more complex fuzz testing.***
+
+
+```shell
+git clone https://github.com/foundry-rs/foundry.git
+cd foundry
+cargo install --path .
+```
+
+
+
