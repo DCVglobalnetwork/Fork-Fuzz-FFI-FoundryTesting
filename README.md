@@ -16,32 +16,31 @@ forge test --fork-url <PLACE YOUR URL HERE>
 
 ![Screenshot 2024-05-23 102240](https://github.com/DCVglobalnetwork/Fork-Fuzz-FFI-FoundryTesting/assets/105791829/ac9d24e2-b7a8-4b2a-96f4-0e3b9a4a4f09)
 
+
+
+2. Fuzzing (assume, bound)
+
+
+
+3. FFI
+
 ```shell
-forge test 
+cast ffi_test.txt
+```
+or 
 
+```shell
+forge test --mt testFFI --ffi -vvv
+```
 
-3. Fuzzing (assume, bound)
+   
 
+![Screenshot 2024-05-23 112617](https://github.com/DCVglobalnetwork/Fork-Fuzz-FFI-FoundryTesting/assets/105791829/69f3e640-f7cb-468f-abb0-29e5ef1d7220)
 
-4. FFI 
 
 ## Documentation
 
 https://book.getfoundry.sh/
-
-## Usage
-
-### Build
-
-```shell
-$ forge build
-```
-
-### Test
-
-```shell
-$ forge test
-```
 
 ### Format
 
@@ -52,7 +51,7 @@ $ forge fmt
 ### Cast
 
 ```shell
-$ cast 
+$ cast ffi_test.txt
 ```
 
 ### Help
