@@ -80,9 +80,12 @@ Please make sure to update tests as appropriate.
 
 ## Contact
 
-Magda Jankowska - [free2magda46@yahoo.com](mailto:email@example.com)
+Follow me for more projects and updates also buiding our decentralized network
 
-Project Link: [https://github.com/DCVglobalnetwork/Fork-Fuzz-FFI-FoundryTesting](https://github.com/DCVglobalnetwork/Fork-Fuzz-FFI-FoundryTesting
+Magda Jankowska - https://github.com/DCVglobalnetwork
+
+
+Project Link: [https://github.com/DCVglobalnetwork/Fork-Fuzz-FFI-FoundryTesting](https://github.com/DCVglobalnetwork/Fork-Fuzz-FFI-FoundryTesting)
 
 
 ***Master Foundry for Security Testing***
